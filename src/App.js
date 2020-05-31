@@ -12,7 +12,7 @@ function App() {
 				<div>
 					<ul>
 						<li>
-							<Link to="/articulos">Ver articulos modificados</Link>
+							<Link to="/articulos">Ver articulos</Link>
 						</li>
 						<li>
 							<Link to="/articulos/crear">Crear articulo</Link>
